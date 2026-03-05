@@ -4,6 +4,12 @@
 
 ### With Jenny Hedley and Lucinda Strahan
 
+HELLO HELLO
+
+I am testing code changes
+
+changes
+
 This studio focuses on electronic/digital writing – that is, writing (poetry, fiction, nonfiction or other) that relies on computation to be realised. This includes computer-generated writing, hypertext and interactive fiction, and digital poetry. We will also look at print precursors that use techniques associated with digital literature (for example, the processes employed by the Oulipo writers). We will explore interactive literary concepts, such as what it means when readers can make choices in a narrative or move the words in a poem, and how to use these techniques to develop or alter your work.
 
 There is no requirement to have any skills in relation to the digital – in other words, you don't need to be a programmer – but you must be willing to challenge yourself and be bold. Over the semester we will read a range of digital literature and there will be opportunities to make works with authoring tools like Twine, which require little knowledge, to writing HTML, JavaScript, and CSS. At the end of semester, you will produce either an interactive narrative work or a series of digital poems and understand the processes involved in publishing these works online.
